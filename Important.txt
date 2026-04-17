@@ -1,0 +1,13 @@
+Au niveau de settings vous allez essayer de rechercher
+    DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'HostCare',
+        'USER': 'root',
+        'PASSWORD': '@S21damsoskb',
+        'HOST': 'localhost',
+        'PORT': '3306',
+    }
+}
+
+et Remplacer les informations Convenants par les votres
