@@ -25,6 +25,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'gestion_users',
+    'gestion_consultation',
 ]
 
 MIDDLEWARE = [
@@ -65,7 +67,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'HostCare',
         'USER': 'root',
-        'PASSWORD': '@S21damsoskb',
+        'PASSWORD': 'sidoine@2006',
         'HOST': 'localhost',  # Ou l'adresse IP de votre serveur
         'PORT': '3306',
     }

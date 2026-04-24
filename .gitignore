@@ -1,0 +1,6 @@
+
+# Environnement virtuel
+env/
+
+# Fichiers de configuration sensibles (Très important avec MySQL)
+.env
